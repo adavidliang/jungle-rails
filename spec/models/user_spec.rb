@@ -63,7 +63,7 @@ RSpec.describe User, type: :model do
       pp authenticated_user
       expect(authenticated_user.email).to eq(user.email)
     end
-
+                                              
     it 'returns nil when given a wrong password' do
       # here you should call the method with the real email and a wrong password
       authenticated_user = User.authenticate_with_credentials('test@example.com', 'wrongpassword123')
