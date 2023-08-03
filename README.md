@@ -2,7 +2,7 @@
 
 Jungle Project from David Liang
 
-![Alt text](image.png)
+![Cart Page](docs/cartPage.png)
 ![Alt text](image.png)
 ![Alt text](image.png)
 ## Setup
