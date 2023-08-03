@@ -3,8 +3,8 @@
 Jungle Project from David Liang
 
 ![Cart Page](docs/cartPage.png)
-![Alt text](image.png)
-![Alt text](image.png)
+![Main Page](docs/mainPage.png)
+![Product Detail](docs/productDetail.png)
 ## Setup
 
 1. Run `bundle install` to install dependencies
